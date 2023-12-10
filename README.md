@@ -6,6 +6,7 @@ My current "skills" compose of:
 * basics of OOP \(Java and a little bit C#\)
 * a little frontend with Angular and Javascript
 * quick scripting with python
+* a lot of little intel I don't know how to catogorise or is worth mentioning
 
 
 Standpoint: 10th dec 2023
