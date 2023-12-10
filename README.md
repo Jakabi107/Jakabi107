@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> I'm Jakob. Aka. Jakabi \(Jakob is never available in any online account names!!\). As you may have read from the Bio I'm currently writting software as a hobby and trying to advance my skills as much as I can with self study and several projects. If I get a project \(finsished\) that I think is "publishable" I will upload it here, so maybe sometimes, somehow it could be useful for someone else. However there also may be some started ones not finished or abonded...
+I'm Jakob. Aka. Jakabi \(Jakob is never available in any online account names!!\). As you may have read from the Bio I'm currently writting software as a hobby and trying to advance my skills as much as I can with self study and several projects. If I get a project \(finsished\) that I think is "publishable" I will upload it here, so maybe sometimes, somehow it could be useful for someone else. However there also may be some started ones not finished or abonded...
 
 My current "skills" compose of:
 * OOP \(Java and a little bit C#\)
