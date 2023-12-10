@@ -1,18 +1,18 @@
 ### Hi there 👋
 
-I'm Jakob. Aka. Jakabi \(Jakob is never available in any online account names!!\). As you may have read from the Bio I'm currently writting software as a hobby and trying to advance my skills as much as I can with self study and several projects. If I get a project \(finsished\) that I think is "publishable" I will upload it here, so maybe sometimes, somehow it could be useful for someone else. However there also may be some started ones not finished or abonded...🙃
+I'm Jakob. Aka. Jakabi \(Jakob is never available in any online account names!!\). As you may have read in the Bio I'm currently writting software as a hobby and trying to advance my skills as much as I can with self study! If I get a project \(finsished\) that I think is "publishable" I will upload it here, so maybe sometimes, somehow it could be useful for someone else. However there also may be some started ones, not finished or abonded...🙃
 
 ---
 
 __My current "skills" compose of: 🔭__
 * OOP \(Java and a little bit C#\)
-* a little frontend with Angular and Javascript
+* a little Frontend with Angular and Javascript
 * quick scripting with python
 * a lot of little intel I don't know how to catogorise or isn't worth mentioning
 
 
 <br>
-If you want help in some projekts, just contact me. I'm always happy to colloberate as I can learn from new things and just like coding in general!
+If you want help in some projekts, just contact me. I'm always happy to collaborate as I can learn from new things and just like coding in general!
 
 📫 Contact me with: jakob.rietzler@gmail.com
 
