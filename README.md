@@ -13,7 +13,7 @@ __My current "skills" compose of: 🔭__
 
 <br>
 If you want help in some projekts, just contact me. I'm always happy to collaborate as I can learn from new things and just like coding in general!
-
+<br>
 📫 Contact me with: jakob.rietzler@gmail.com
 
 
