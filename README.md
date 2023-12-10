@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!-- Please ignore formating of this file :) I was a litlle lazy to look up best practises and had time pressure - will fix it when i have tim-->
 I'm Jakob. Aka. Jakabi \(Jakob is never available in any online account names!!\). As you may have read in the Bio I'm currently writting software as a hobby and trying to advance my skills as much as I can with self study! If I get a project \(finsished\) that I think is "publishable" I will upload it here, so maybe sometimes, somehow it could be useful for someone else. However there also may be some started ones, not finished or abonded...🙃
 
 ---
