@@ -14,13 +14,15 @@ __My current "skills" compose of: 🔭__
 <br>
 If you want help in some projekts, just contact me. I'm always happy to collaborate as I can learn from new things and just like coding in general!
 <br>
+<br>
 📫 Contact me with: jakob.rietzler@gmail.com
 
-
+<br>
 <br>
 ⚡ Fun Fakt:<br>
 * Currently learning 日本語, Japanese, cause I'm fond of anime (as you can probably guess from my profile)
 
+<br>
 <br>
 <br>
 <super> Standpoint: 10th dec 2023</super>
